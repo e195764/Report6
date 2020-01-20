@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a031ba30-0718-42ea-9c20-9e9c91391f6a" name="Default Changelist" comment="" />
+    <list default="true" id="a031ba30-0718-42ea-9c20-9e9c91391f6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +35,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1WfVp34DcS3c9zeS7MsHYQ36y4D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +51,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -75,24 +97,64 @@
       <option name="presentableId" value="Default" />
       <updated>1579540815303</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1579542962064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579542962064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom" timestamp="1579542675565">
+    <state x="343" y="63" key="CommitChangelistDialog2" timestamp="1579542961793">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579542675565" />
-    <state width="1396" height="230" key="GridCell.Tab.0.center" timestamp="1579542675564">
+    <state x="343" y="63" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1579542961793" />
+    <state width="1396" height="147" key="GridCell.Tab.0.bottom" timestamp="1579547063023">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579542675564" />
-    <state width="1396" height="230" key="GridCell.Tab.0.left" timestamp="1579542675564">
+    <state width="1396" height="147" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579547063023" />
+    <state width="1396" height="147" key="GridCell.Tab.0.center" timestamp="1579547063022">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579542675564" />
-    <state width="1396" height="230" key="GridCell.Tab.0.right" timestamp="1579542675565">
+    <state width="1396" height="147" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579547063022" />
+    <state width="1396" height="147" key="GridCell.Tab.0.left" timestamp="1579547063022">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579542675565" />
+    <state width="1396" height="147" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579547063022" />
+    <state width="1396" height="147" key="GridCell.Tab.0.right" timestamp="1579547063023">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="147" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579547063023" />
+    <state width="1396" height="284" key="GridCell.Tab.1.bottom" timestamp="1579546384433">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579546384433" />
+    <state width="1396" height="284" key="GridCell.Tab.1.center" timestamp="1579546384433">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1579546384433" />
+    <state width="1396" height="284" key="GridCell.Tab.1.left" timestamp="1579546384432">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1579546384432" />
+    <state width="1396" height="284" key="GridCell.Tab.1.right" timestamp="1579546384433">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="284" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1579546384433" />
+    <state x="500" y="178" key="RollbackChangesDialog" timestamp="1579546555230">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="500" y="178" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1579546555230" />
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2" timestamp="1579542982504">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1579542982504" />
   </component>
 </project>
