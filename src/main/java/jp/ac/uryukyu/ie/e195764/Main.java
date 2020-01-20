@@ -15,6 +15,7 @@ public class Main {
         a = in.nextLine();
 
         Review review = new Review();
+        Addition addition = new Addition();
 
 
         if (a.equals("a")) {
@@ -23,12 +24,12 @@ public class Main {
 
         } else if (a.equals("b")) {
             //実装
-            for(int i = 0; i < review.words.size(); i++) {
-                System.out.println(review.words.get(i));
-            }
+            review.reviewWords();
+
 
         } else if (a.equals("c")) {
             //実装
+            addition.addWords();
 
 
         } else {
