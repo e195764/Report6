@@ -3,6 +3,7 @@ package jp.ac.uryukyu.ie.e195764;
 import java.util.Scanner;
 
 public class Addition {
+
     public void addWords() {
         System.out.println("追加したい英単語とその意味を書いてください。");
 
@@ -19,4 +20,6 @@ public class Addition {
 
         //System.out.println(review.words); //確認用
     }
+    
+
 }

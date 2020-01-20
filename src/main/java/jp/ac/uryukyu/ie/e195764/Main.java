@@ -1,8 +1,11 @@
 package jp.ac.uryukyu.ie.e195764;
+import com.sun.tools.jdeprscan.scan.Scan;
+
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
         System.out.println("選択してください。");
         System.out.println("・英単語テストをする ---> a");
         System.out.println("・英単語を復習する ---> b");
@@ -10,9 +13,9 @@ public class Main {
         System.out.println("（入力待ち）");
 
 
-        Scanner in = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         String a;
-        a = in.nextLine();
+        a = scanner.nextLine();
 
         Review review = new Review();
         Addition addition = new Addition();
@@ -36,6 +39,6 @@ public class Main {
             System.out.println("正しく入力してください。");
         }
 
-
     }
+
 }
