@@ -1,9 +1,11 @@
 package jp.ac.uryukyu.ie.e195764;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class Review {
+
     ArrayList<String> words = new ArrayList<>(Arrays.asList(
             "merchant\t商人",
             "needle\t針",
@@ -21,6 +23,7 @@ public class Review {
         for(int i = 0; i < words.size(); i++) {
             System.out.println(words.get(i));
         }
+        return;
     }
 
 }
