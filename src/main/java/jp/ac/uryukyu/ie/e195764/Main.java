@@ -1,7 +1,5 @@
 package jp.ac.uryukyu.ie.e195764;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -19,45 +17,33 @@ public class Main {
                 "fireplace\t暖炉"};
 
         System.out.println("選択してください。");
-        System.out.println("・英単語テストをする ---> a");
-        System.out.println("・英単語を復習する ---> b");
+        System.out.println("・英単語を覚える ---> a");
+        System.out.println("・英単語をテストする ---> b");
         System.out.println("・リストに単語を追加する ---> c");
         System.out.println("プログラムを終了する ---> !");
         System.out.println("（入力待ち）");
-
-
-
 
         Review review = new Review();
         Addition addition = new Addition();
         Test test = new Test(dataset);
 
-
         while( true ) {
-
             Scanner scanner = new Scanner(System.in);
-            String a;
-            a = scanner.nextLine();
-
+            String a = scanner.nextLine();
             if (a.equals("a")) {
-                //実装
-                test.testWords();
-
-            } else if (a.equals("b")) {
-                //実装
                 review.reviewWords();
-
-
+                System.out.println("（入力待ち）");
+            } else if (a.equals("b")) {
+                test.testWords();
+                System.out.println("（入力待ち）");
             } else if (a.equals("c")) {
-                //実装
                 addition.addWords();
-
-
+                System.out.println("単語を追加しました。（入力待ち）");
             } else if(a.equals("!")) {
                 break;
-
             }else{
                 System.out.println("正しく入力してください。");
+                System.out.println("（入力待ち）");
             }
         }
     }

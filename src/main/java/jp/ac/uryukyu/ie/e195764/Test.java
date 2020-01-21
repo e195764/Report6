@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Test {
 
-    ReplyPattern[] patterns; //応答パターン
+    ReplyPattern[] patterns;
 
     public Test(String[] dataset){
         patterns = new ReplyPattern[dataset.length];
@@ -16,17 +16,17 @@ public class Test {
     }
 
     public void testWords() {
-        String input, reply, output;
+        String input, reply;
         Scanner in = new Scanner(System.in);
         while ( true ) {
-
-            Random rand = new Random();
-
-            System.out.println("（入力待ち）");
-            input = in.nextLine();
-
-            reply = reply(input);
-            System.out.println(reply);
+            System.out.println("＜覚えた英単語を入力しなさい。＞");
+            try{
+                input = in.nextLine();
+                reply = reply(input);
+                System.out.println(reply);
+            } catch (ArrayIndexOutOfBoundsException e) {
+                System.out.println("スペルミス");
+            }
         }
     }
 

@@ -21,4 +21,8 @@ public class Addition {
         return;
         //System.out.println(review.words); //確認用
     }
+
+    public void rmWords() {
+        System.out.println("削除したい英単語とその意味を書いてください。");
+    }
 }
