@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
         String[] dataset = {"merchant\t商人",
                 "needle\t針",
                 "oxygen\t酸素",

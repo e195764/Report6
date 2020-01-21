@@ -2,8 +2,14 @@ package jp.ac.uryukyu.ie.e195764;
 
 import java.util.Scanner;
 
+/**
+ * Additionクラス: 「英単語を追加する」が選択された時のプログラム
+ */
 public class Addition {
 
+    /**
+     * 英単語帳に新しくスペルとその意味を追加するメソッド
+     */
     public void addWords() {
         System.out.println("追加したい英単語とその意味を書いてください。");
 
@@ -22,6 +28,10 @@ public class Addition {
         //System.out.println(review.words); //確認用
     }
 
+    /**
+     * 単語帳から単語を削除するメソッド
+     * 未実装
+     */
     public void rmWords() {
         System.out.println("削除したい英単語とその意味を書いてください。");
     }
