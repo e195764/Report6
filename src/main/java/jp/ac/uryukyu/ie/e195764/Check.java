@@ -5,14 +5,14 @@ import java.util.Scanner;
 /**
  * Testクラス: 「英単語をテストする」が選択された時のプログラム
  */
-public class Test {
+public class Check {
     ReplyPattern[] patterns;
 
     /**
      * コンストラクタ
      * @param dataset 応答パターン(String配列)。
      */
-    public Test(String[] dataset){
+    public Check(String[] dataset){
         patterns = new ReplyPattern[dataset.length];
         for(int i = 0; i < dataset.length; i++) {
             String[] splitDataset = dataset[i].split("\t");
@@ -23,8 +23,10 @@ public class Test {
     /**
      * 入力された英単語のスペルが一致するか判定するメソッド
      * スペルが一致しない場合，try-catchで「スペルミス」と出力するようにした
+     *
+     * @exception ArrayIndexOutOfBoundsException
      */
-    public void testWords() {
+    public void checkWords() {
         String input, reply;
         Scanner in = new Scanner(System.in);
         while ( true ) {

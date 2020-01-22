@@ -24,7 +24,7 @@ public class Main {
 
         Review review = new Review();
         Addition addition = new Addition();
-        Test test = new Test(dataset);
+        Check check = new Check(dataset);
 
         while( true ) {
             Scanner scanner = new Scanner(System.in);
@@ -33,7 +33,7 @@ public class Main {
                 review.reviewWords();
                 System.out.println("（入力待ち）");
             } else if (a.equals("b")) {
-                test.testWords();
+                check.checkWords();
                 System.out.println("（入力待ち）");
             } else if (a.equals("c")) {
                 addition.addWords();
