@@ -24,8 +24,6 @@ public class Addition {
         Review review = new Review();
         review.words.add(e + "\t" + j);
 
-        return;
-        //System.out.println(review.words); //確認用
     }
 
     /**

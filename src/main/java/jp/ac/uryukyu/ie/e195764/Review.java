@@ -24,8 +24,8 @@ public class Review {
      * 英単語と意味を覚える際に利用する。
      */
     public void reviewWords() {
-        for(int i = 0; i < words.size(); i++) {
-            System.out.println(words.get(i));
+        for(String wordslist : words) {
+            System.out.println(wordslist);
         }
         return;
     }

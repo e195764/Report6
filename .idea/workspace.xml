@@ -6,19 +6,20 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Addition.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Addition.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/ReplyPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/ReplyPattern.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Review.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Review.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/report6-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/report6-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Check.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/ReplyPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/ReplyPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Review.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +104,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.report6-1.0-SNAPSHOT.jar">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jp.ac.uryukyu.ie.e195764.Main" />
       <module name="report6.main" />
@@ -220,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579622036517</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ユニットテスト追加">
+      <created>1579664016837</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579664016837</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,7 +238,8 @@
     <MESSAGE value="Testクラス実装&#10;ReplyPatternクラス実装" />
     <MESSAGE value="Reviewクラスにメソッド追加/Additionクラスにメソッド追加/その他微調整" />
     <MESSAGE value="ドキュメント記述" />
-    <option name="LAST_COMMIT_MESSAGE" value="ドキュメント記述" />
+    <MESSAGE value="ユニットテスト追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="ユニットテスト追加" />
   </component>
   <component name="WindowStateProjectService">
     <state x="532" y="177" key="#com.intellij.ide.util.MemberChooser" timestamp="1579552945814">
@@ -241,26 +250,26 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="481" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1579623418282" />
-    <state x="343" y="63" key="CommitChangelistDialog2" timestamp="1579622036296">
+    <state x="343" y="63" key="CommitChangelistDialog2" timestamp="1579664016613">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="343" y="63" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1579622036296" />
-    <state width="1396" height="147" key="GridCell.Tab.0.bottom" timestamp="1579623009279">
+    <state x="343" y="63" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1579664016613" />
+    <state width="1396" height="147" key="GridCell.Tab.0.bottom" timestamp="1579675808055">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="147" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579623009279" />
-    <state width="1396" height="147" key="GridCell.Tab.0.center" timestamp="1579623009279">
+    <state width="1396" height="147" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579675808055" />
+    <state width="1396" height="147" key="GridCell.Tab.0.center" timestamp="1579675808054">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="147" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579623009279" />
-    <state width="1396" height="147" key="GridCell.Tab.0.left" timestamp="1579623009278">
+    <state width="1396" height="147" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579675808054" />
+    <state width="1396" height="147" key="GridCell.Tab.0.left" timestamp="1579675808054">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="147" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579623009278" />
-    <state width="1396" height="147" key="GridCell.Tab.0.right" timestamp="1579623009279">
+    <state width="1396" height="147" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579675808054" />
+    <state width="1396" height="147" key="GridCell.Tab.0.right" timestamp="1579675808055">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="147" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579623009279" />
+    <state width="1396" height="147" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579675808055" />
     <state width="1396" height="284" key="GridCell.Tab.1.bottom" timestamp="1579555051300">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -281,10 +290,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="500" y="178" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1579546555230" />
-    <state x="319" y="200" key="Vcs.Push.Dialog.v2" timestamp="1579622044565">
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2" timestamp="1579664025164">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="319" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1579622044565" />
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1579664025164" />
     <state x="485" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579623206376">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

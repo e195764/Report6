@@ -3,10 +3,10 @@ package jp.ac.uryukyu.ie.e195764;
 import java.util.Scanner;
 
 /**
- * Testクラス: 「英単語をテストする」が選択された時のプログラム
+ * Checkクラス: 「英単語をテストする」が選択された時のプログラム
  */
 public class Check {
-    ReplyPattern[] patterns;
+    ReplyPattern[] patterns; //応答パターン（配列）
 
     /**
      * コンストラクタ
@@ -21,7 +21,7 @@ public class Check {
     }
 
     /**
-     * 入力された英単語のスペルが一致するか判定するメソッド
+     * 入力された英単語のスペルに対応する回答を出力するメソッド
      * スペルが一致しない場合，try-catchで「スペルミス」と出力するようにした
      *
      * @exception ArrayIndexOutOfBoundsException
@@ -33,7 +33,7 @@ public class Check {
             System.out.println("＜覚えた英単語を入力しなさい。＞");
             try{
                 input = in.nextLine();
-                reply = reply(input);
+                reply = reply(input); //応答文をreplyに代入
                 System.out.println(reply);
             } catch (ArrayIndexOutOfBoundsException e) {
                 System.out.println("スペルミス");
@@ -50,7 +50,7 @@ public class Check {
      */
     public String reply(String pattern){
         int index = searchPattern(pattern);
-        String message = "「" + patterns[index].reply + "」";
+        String message = "「" + patterns[index].getReply() + "」";
         return message;
     }
 

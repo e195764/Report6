@@ -6,7 +6,7 @@ package jp.ac.uryukyu.ie.e195764;
  */
 public class ReplyPattern {
     String pattern;
-    String reply;
+    private String reply;
 
     /**
      * コンストラクタ: フィールドの初期化
@@ -16,6 +16,10 @@ public class ReplyPattern {
     public ReplyPattern(String pattern, String reply){
         this.pattern = pattern;
         this.reply = reply;
+    }
+
+    public String getReply() {
+        return reply;
     }
 
     /**

@@ -15,12 +15,7 @@ public class Main {
                 "investment\t投資",
                 "fireplace\t暖炉"};
 
-        System.out.println("選択してください。");
-        System.out.println("・英単語を覚える ---> a");
-        System.out.println("・英単語をテストする ---> b");
-        System.out.println("・リストに単語を追加する ---> c");
-        System.out.println("プログラムを終了する ---> !");
-        System.out.println("（入力待ち）");
+        System.out.println("選択してください。\n・英単語を覚える ---> a\n・英単語をテストする ---> b\n・リストに単語を追加する ---> c\n・プログラムを終了する ---> !\n（入力待ち）");
 
         Review review = new Review();
         Addition addition = new Addition();
