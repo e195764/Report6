@@ -29,9 +29,9 @@ public class Check {
     public void checkWords() {
         String input, reply;
         Scanner in = new Scanner(System.in);
-        while ( true ) {
+        while (true) {
             System.out.println("＜覚えた英単語を入力しなさい。＞");
-            try{
+            try {
                 input = in.nextLine();
                 reply = reply(input); //応答文をreplyに代入
                 System.out.println(reply);
@@ -40,6 +40,9 @@ public class Check {
             }
         }
     }
+
+    //ループから抜けるためのメソッド
+
 
     /**
      * ユーザ入力に応じた応答を生成するメソッド

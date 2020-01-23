@@ -10,16 +10,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Addition.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Addition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Check.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/ReplyPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/ReplyPattern.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Review.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Review.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/jp/ac/uryukyu/ie/e195764/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/report6-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/report6-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Addition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/ReplyPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/ReplyPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/uryukyu/ie/e195764/Review.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +99,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Gradle.report6 [jar]">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jp.ac.uryukyu.ie.e195764.Main" />
       <module name="report6.main" />
@@ -228,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579664016837</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ドキュメント追加">
+      <created>1579679299327</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579679299327</updated>
+    </task>
+    <task id="LOCAL-00010" summary="AllayListにstatic追加">
+      <created>1579769290882</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579769290882</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,7 +248,9 @@
     <MESSAGE value="Reviewクラスにメソッド追加/Additionクラスにメソッド追加/その他微調整" />
     <MESSAGE value="ドキュメント記述" />
     <MESSAGE value="ユニットテスト追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="ユニットテスト追加" />
+    <MESSAGE value="ドキュメント追加" />
+    <MESSAGE value="AllayListにstatic追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="AllayListにstatic追加" />
   </component>
   <component name="WindowStateProjectService">
     <state x="532" y="177" key="#com.intellij.ide.util.MemberChooser" timestamp="1579552945814">
@@ -250,26 +261,26 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="481" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1579623418282" />
-    <state x="343" y="63" key="CommitChangelistDialog2" timestamp="1579664016613">
+    <state x="343" y="63" key="CommitChangelistDialog2" timestamp="1579769290638">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="343" y="63" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1579664016613" />
-    <state width="1396" height="147" key="GridCell.Tab.0.bottom" timestamp="1579675808055">
+    <state x="343" y="63" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1579769290638" />
+    <state width="1396" height="87" key="GridCell.Tab.0.bottom" timestamp="1579782381714">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="147" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579675808055" />
-    <state width="1396" height="147" key="GridCell.Tab.0.center" timestamp="1579675808054">
+    <state width="1396" height="87" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579782381714" />
+    <state width="1396" height="87" key="GridCell.Tab.0.center" timestamp="1579782381714">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="147" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579675808054" />
-    <state width="1396" height="147" key="GridCell.Tab.0.left" timestamp="1579675808054">
+    <state width="1396" height="87" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579782381714" />
+    <state width="1396" height="87" key="GridCell.Tab.0.left" timestamp="1579782381713">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="147" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579675808054" />
-    <state width="1396" height="147" key="GridCell.Tab.0.right" timestamp="1579675808055">
+    <state width="1396" height="87" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579782381713" />
+    <state width="1396" height="87" key="GridCell.Tab.0.right" timestamp="1579782381714">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="147" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579675808055" />
+    <state width="1396" height="87" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579782381714" />
     <state width="1396" height="284" key="GridCell.Tab.1.bottom" timestamp="1579555051300">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -290,10 +301,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="500" y="178" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1579546555230" />
-    <state x="319" y="200" key="Vcs.Push.Dialog.v2" timestamp="1579664025164">
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2" timestamp="1579769296874">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="319" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1579664025164" />
+    <state x="319" y="200" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1579769296874" />
     <state x="485" y="210" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579623206376">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
