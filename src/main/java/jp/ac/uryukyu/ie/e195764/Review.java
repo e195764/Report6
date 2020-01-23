@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Reviewクラス: 「英単語を覚える」が入力された時のプログラム
  */
 public class Review {
-    ArrayList<String> words = new ArrayList<>(Arrays.asList(
+    static ArrayList<String> words = new ArrayList<>(Arrays.asList(
             "merchant\t商人",
             "needle\t針",
             "oxygen\t酸素",
